@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+
+	<meta charset="utf-8">
+	<title>Wirus Warriors NFT</title>
+	<meta name="description" content="Blog na temat ciekawych publikacji z dziedziny filozofii. Omówienie wybranych tekstów najsłynniejszych autorów!">
+	<meta name="keywords" content="NFT,technology,bitcoin,VirusWarriors">
+	<meta name="author" content="Adrian Piróg">
+	
+	<meta http-equiv="X-Ua-Compatible" content="IE=edge,chrome=1">
+	
+	<link rel="stylesheet" href="main.css">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;subset=latin-ext" rel="stylesheet">
+	
+	<!--[if lt IE 9]>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+	<![endif]-->
+	
+</head>
+
+<body>
+	<header>
+		<h1 class= "logo">Wirus Warriors</h1>
+		<nav>
+			<ul class="menu">
+				<li><a href="#">Home<a/></li>
+				<li><a href="#">Gallery<a/></li>
+				<li><a href="#">Road Map<a/></li>
+				<li><a href="#">Team<a/></li>
+		</nav>
+	</header>
+	<main>
+		<article>
+			<section>
+				<div class="info">
+					<header class="home">
+						<h1>Welcome to Virus Warriors!</h1>
+						<p>Virus Warriors are more than a meme tokens.<br>
+							There are 256 unique viruses on the Solana blockchain.<br>
+							One Virus Warrior costs 0.05 SOL + GAS, but rarer warriors cost more<br>
+							After minting, Warriors can be traded on the secondary markets<br>
+							Exclusive access, rewards and merch only available to holders.</p>
+							
+					</header>
+				</div>
+			</section>
+			<section>
+				<div class="gallery">
+					<header>
+						<h1>Gallery</h1>
+					</header>
+					<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
+					<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
+					<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
+					<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
+					<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
+				</div>	
+				<div class="gallery">
+				<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
+				<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
+				<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
+				<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
+				<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
+				</div>	
+			</section>
+			<section>
+				<div class="roadmap">
+					<header>
+						<h1>Wirus Warriors Roadmap</h1>
+					</header>
+					<h2>STAGE 1</h2>
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+						</p>
+					<h2>STAGE 2</h2>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+						</p>
+					<h2>STAGE 3</h2>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+						</p>
+					<h2>STAGE 4</h2>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+						</p>
+					<h2>STAGE 5</h2>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+						</p>
+				</div>
+			</section>
+			<section>
+				<div class="gallery">
+					<header>
+						<h1>Our Team</h1>	
+					</header>
+						<div class="photo"><img src="img/02.jpg"  width="200" height="200"></div>
+						<div class="photo"><img src="img/02.jpg"  width="200" height="200"></div>
+						
+				</div>
+			</section>
+		</article>
+	</main>
+
+</body>
+</html>
