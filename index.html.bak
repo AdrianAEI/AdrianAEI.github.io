@@ -3,14 +3,15 @@
 <head>
 
 	<meta charset="utf-8">
-	<title>Wirus Warriors NFT</title>
+	<title>Virus Warriors NFT</title>
 	<meta name="description" content="Blog na temat ciekawych publikacji z dziedziny filozofii. Omówienie wybranych tekstów najsłynniejszych autorów!">
 	<meta name="keywords" content="NFT,technology,bitcoin,VirusWarriors">
 	<meta name="author" content="Adrian Piróg">
 	
-	<meta http-equiv="X-Ua-Compatible" content="IE=edge,chrome=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	
 	<link rel="stylesheet" href="main.css">
+	<link rel="stylesheet" href="css/fontello.css">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;subset=latin-ext" rel="stylesheet">
 	
 	<!--[if lt IE 9]>
@@ -21,13 +22,13 @@
 
 <body>
 	<header>
-		<h1 class= "logo">Wirus Warriors</h1>
+			<h1 class= "logo">Virus Warriors - Silesian University of Technology NFTs</h1>
 		<nav>
 			<ul class="menu">
-				<li><a href="#">Home<a/></li>
-				<li><a href="#">Gallery<a/></li>
-				<li><a href="#">Road Map<a/></li>
-				<li><a href="#">Team<a/></li>
+				<li><a href="#Home">Home<a/></li>
+				<li><a href="#Gallery">Gallery<a/></li>
+				<li><a href="#RoadMap">RoadMap<a/></li>
+				<li><a href="#Team">Team<a/></li>
 		</nav>
 	</header>
 	<main>
@@ -35,11 +36,12 @@
 			<section>
 				<div class="info">
 					<header class="home">
-						<h1>Welcome to Virus Warriors!</h1>
-						<p>Virus Warriors are more than a meme tokens.<br>
-							There are 256 unique viruses on the Solana blockchain.<br>
-							One Virus Warrior costs 0.05 SOL + GAS, but rarer warriors cost more<br>
-							After minting, Warriors can be traded on the secondary markets<br>
+						<h1 id="Home">Welcome to Virus Warriors!</h1>
+						<p class="start">Virus Warriors are more than a meme tokens.<br>
+							Students of one of the best technical universities in Poland made this.<br>
+							There are 256 unique viruses on the Etherum blockchain.<br>
+							One Virus Warrior costs 0.001 ETH + GAS, but rarer warriors cost more.<br>
+							After minting, Warriors can be traded on the secondary markets.<br>
 							Exclusive access, rewards and merch only available to holders.</p>
 							
 					</header>
@@ -48,56 +50,89 @@
 			<section>
 				<div class="gallery">
 					<header>
-						<h1>Gallery</h1>
+						<h1 id="Gallery">Gallery</h1>
 					</header>
-					<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
-					<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
-					<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
-					<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
-					<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
+					<div class="photo"><img src="img/06.jpg"  width="200" height="200"></div>
+					<div class="photo"><img src="img/07.jpg"  width="200" height="200"></div>
+					<div class="photo"><img src="img/08.jpg"  width="200" height="200"></div>
+					<div class="photo"><img src="img/09.jpg"  width="200" height="200"></div>
 				</div>	
 				<div class="gallery">
-				<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
-				<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
-				<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
-				<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
-				<div class="photo"><img src="img/03.jpg"  width="200" height="200"></div>
+					<div class="photo"><img src="img/10.jpg"  width="200" height="200"></div>
+					<div class="photo"><img src="img/011.jpg"  width="200" height="200"></div>
+					<div class="photo"><img src="img/012.jpg"  width="200" height="200"></div>
+					<div class="photo"><img src="img/14.jpg"  width="200" height="200"></div>
 				</div>	
 			</section>
 			<section>
 				<div class="roadmap">
 					<header>
-						<h1>Wirus Warriors Roadmap</h1>
+						<h1 id="RoadMap">Virus Warriors RoadMap</h1>
 					</header>
 					<h2>STAGE 1</h2>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+						<p class="start">Mint on OpenSea
+						Website, Twitter and Discord server launches
+						Marketing starts
 						</p>
 					<h2>STAGE 2</h2>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+					<p>Pre–sale Minting
+					16th January 2022
+					First 50 viruses are already sold out.
+					Volume of the market has already increased up to 20 ETH.
 						</p>
 					<h2>STAGE 3</h2>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+					<p>Fantastic website has been created, we make giveaways and we also have our first NFT holders.<br>
+						We made a list of rarity ranks for all of our NFTs on HowRare.is.
 						</p>
 					<h2>STAGE 4</h2>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+					<p>Almost every NTF is minted. Floor price has increased.
+						A hella tons of resells.
+						Volume passed the value of 1000 ETH.
 						</p>
 					<h2>STAGE 5</h2>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+					<p>The game is released for closed beta only NFT holders have the ability to play it.
+						Holders of NFT get in to the whitelist for the next biggest ever collection in the bike park.
 						</p>
 				</div>
 			</section>
 			<section>
 				<div class="gallery">
 					<header>
-						<h1>Our Team</h1>	
+						<h1 id="Team">Our Team</h1>	
 					</header>
-						<div class="photo"><img src="img/02.jpg"  width="200" height="200"></div>
-						<div class="photo"><img src="img/02.jpg"  width="200" height="200"></div>
+						<div class="photo">
+							<figure>
+								<img src="img/013.jpg"  width="300" height="300">
+								<figcaption>AdrianAEI</figcaption>
+							</figure>
+						</div>
+						<div class="photo">
+							<figure>
+								<img src="img/03.jpg"  width="300" height="300">
+								<figcaption>KubusK0zak</figcaption>
+							</figure>
+						</div>
+					
 						
 				</div>
 			</section>
 		</article>
 	</main>
+	<footer>
+	<div class="socials">
+		<div class="socialdivs">
+			<div class="tw"><a href="https://twitter.com/warriors_virus"><i class="icon-twitter"></i></a></div>
+			<div class="insta"><a href="https://www.instagram.com/adi_se_jestem/?hl=pl"><i class="icon-instagram"></i></a></div>
+			<div class="discord"><a href="https://discord.gg/5JZTYkjQ"><img src="img/05.jpg" width="250" height="155"></a></div>
+			<div class="sea"><a href="https://opensea.io/"><img src="img/04.jpg" width="250" height="155"></a></div>
+			<div style="clear:both;"></div>
+		</div>
+	</div>		
 
+		<div class="info">
+			Virus Warriors, All rights reserved &copy 2022;
+
+		</div>
+	</footer>
 </body>
 </html>
